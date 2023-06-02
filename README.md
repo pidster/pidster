@@ -1,6 +1,6 @@
 ## Repositories
 
-See also: [pidster.com](https://pidster.com/).
+See also: [pidster.com](https://www.pidster.com/).
 
 <!--
 **pidster/pidster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
